@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# The Weather Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Weather Project from Modern React with Redux [2020 Update] course.
 
 ## Available Scripts
 
